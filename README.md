@@ -44,10 +44,10 @@ Add links to your site's navigation system:
 <a href="{% url 'todo:mine' %}">My Tasks</a>
 ```
 
-django-todo makes use of the Django `messages` system. Make sure you have something like [this](https://docs.djangoproject.com/en/2.1/ref/contrib/messages/#displaying-messages) (link) in your `base.html`.
+
 
 Log in and access `/todos`!
-##Examples
+### Examples
 python manage.py runserver
 Watching for file changes with StatReloader
 Performing system checks...
