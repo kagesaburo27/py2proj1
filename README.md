@@ -47,3 +47,14 @@ Add links to your site's navigation system:
 django-todo makes use of the Django `messages` system. Make sure you have something like [this](https://docs.djangoproject.com/en/2.1/ref/contrib/messages/#displaying-messages) (link) in your `base.html`.
 
 Log in and access `/todos`!
+##Examples
+python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 20, 2022 - 21:53:49
+Django version 4.0.1, using settings 'ToDoList.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+![image](https://user-images.githubusercontent.com/70998876/150374032-56123eb2-dd54-4973-9ac7-d0a0c757923c.png)
