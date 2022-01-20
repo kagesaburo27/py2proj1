@@ -1,13 +1,6 @@
 # py2proj1
 # ToDo list using Django Web Framework
-## Requirements
 
-* Django 2.0+
-* Python 3.6+
-* jQuery
-* Bootstrap (to work with provided templates, though you can override them)
-* PostgreSQL
-* 
 ### Installation
 ```bash
 python -m venv venvset1
